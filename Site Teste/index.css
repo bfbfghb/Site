@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+.form{
+   text-align: center;
+   margin-top: 20%;
+}
+input{
+    width: 250px;
+    height: 45px;
+}
+.enviar{
+    width: 255px;
+}
+.meio{
+    text-align: center;
+}
+.bar{
+    width: 100%;
+    background-color:aqua;
+}
+.barbtn{
+    width: 15%;
+    height: 45px;
+    background: aqua;
+    font-size: 20px;
+}
+.barbtn:hover{
+    cursor: pointer;
+    background: aquamarine;
+    font-size: 25px;
+}
+.barimg{
+    width: 35px;
+    height: 35px;
+}
+.bardireita{
+    margin-left: 22%;
+}
+body{
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    background:url(https://i.pinimg.com/originals/8a/90/98/8a909882b3c6a2fcba6e1d4a42dabd42.jpg)no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.principal{
+    text-align: center;
+    font-size: 35px;
+    color: white;
+}
+.p{
+    color: white;
+    text-align: center;
+}
